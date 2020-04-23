@@ -2,7 +2,7 @@
 	"name": "qidgenerator",
 	"displayName": "qidGenerator",
 	"description": "Add Qid to html file tags(a,input,button)",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"publisher": "AmitSharma-Dev",
 	"engines": {
 		"vscode": "^1.44.0"
