@@ -8,7 +8,10 @@
 
 ![Demo](https://media.giphy.com/media/Ynr4Doa2xUATUYPTP5/source.gif)
 
+# Selecting and generating
+![Demo2](https://media.giphy.com/media/YMMCPpqJ4trEcebfiD/source.gif)
 
+# Sample
 ** INPUT
 ```
 <!DOCTYPE html>
