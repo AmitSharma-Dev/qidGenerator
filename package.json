@@ -3,12 +3,18 @@
 	"displayName": "qidGenerator",
 	"description": "Add Qid to html file tags(a,input,button)",
 	"version": "0.0.1",
+	"publisher": "AmitSharma-Dev",
 	"engines": {
 		"vscode": "^1.44.0"
 	},
 	"categories": [
 		"Other"
 	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/AmitSharma-Dev/qidGenerator.git"
+	},
+	"homepage": "https://github.com/AmitSharma-Dev/qidGenerator.git/blob/master/README.md",
 	"activationEvents": [
 		"onCommand:qidgenerator.addQID"
 	],
@@ -17,7 +23,7 @@
 		"commands": [
 			{
 				"command": "qidgenerator.addQID",
-				"title": "Add QID To current file 🤬"
+				"title": "Add QID To current file 🙈🙉🙊"
 			}
 		]
 	},
