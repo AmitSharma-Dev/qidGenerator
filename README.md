@@ -6,7 +6,7 @@
 * Enter the qid prefix i.e for qid="dashboard-1" enter 'dashboard'
 * The extension will add qid to all anchors, button and input elements in opened html.
 
-![Demo](images/demo.gif)
+![Demo](https://gifyu.com/image/lROh)
 
 
 ** INPUT
